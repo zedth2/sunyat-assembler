@@ -1,3 +1,4 @@
+;Author: Ben Foster
 .constant	TERM 	0xFF
 .constant	CR	0xD
 .constant	LF	0xA
