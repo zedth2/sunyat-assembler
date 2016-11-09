@@ -21,4 +21,7 @@ You'll need make, GCC, and flex. [Flex](https://github.com/westes/flex) can be f
 ```sh
 git clone https://github.com/zedth2/sunyat-assembler.git
 pacman -S base-devel flex
+cd sunyat-assembler
+make
+./bin/sunyat-asm examples/protoShell.asm
 ```
